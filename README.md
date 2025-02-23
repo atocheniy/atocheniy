@@ -11,4 +11,4 @@
 <br>
 
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atocheniy)](https://github.com/atocheniy)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=atocheniy&show_icons=true&theme=gotham" alt="atocheniy" />
