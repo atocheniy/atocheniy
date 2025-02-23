@@ -10,7 +10,7 @@
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=flat&logo=windows11)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-⠀⠀<img alt=small src="https://www.codewars.com/users/atocheniy/badges/small">
+⠀⠀[<img alt=small src="https://www.codewars.com/users/atocheniy/badges/small">](https://www.codewars.com/users/atocheniy)
 
 
 <picture>
