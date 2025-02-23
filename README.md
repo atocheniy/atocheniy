@@ -25,11 +25,14 @@
 
 ### GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=atocheniy&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=atocheniy&show_icons=true&theme=gotham" alt="atocheniy" /> 
-   <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atocheniy&theme=gotham" alt="Gift's LangStat" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=atocheniy&show_icons=true&theme=gotham" alt="atocheniy" /> 
+  <img src="https://i.postimg.cc/ZKhkDSdv/lennart-butz-japan-12.gif" width="400" />
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atocheniy&theme=gotham" alt="Gift's LangStat" />
+  
 </div>
 <br>
-
-<p href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></p>
+<p href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" alt="Buy Me A Coffee" width="150" ></p>
 
