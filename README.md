@@ -10,7 +10,7 @@
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=flat&logo=windows11)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-
+⠀⠀<img alt=small src="https://www.codewars.com/users/atocheniy/badges/small">
 
 
 <picture>
@@ -27,7 +27,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=atocheniy&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=atocheniy&show_icons=true&theme=gotham" alt="atocheniy" /> 
-  <img align="top" src="https://i.postimg.cc/ZKhkDSdv/lennart-butz-japan-12.gif" width="370" />
+  ⠀⠀⠀⠀<img align="top" src="https://i.postimg.cc/ZKhkDSdv/lennart-butz-japan-12.gif" width="370" />
   <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atocheniy&theme=gotham" alt="Gift's LangStat" />
