@@ -34,5 +34,5 @@
   
 </div>
 <br>
-<p href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" alt="Buy Me A Coffee" width="150" ></p>
+
 
