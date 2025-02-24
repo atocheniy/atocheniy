@@ -1,4 +1,5 @@
-## Hi! I'm atocheniy
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&weight=700&size=30&pause=1000&color=F7F7F7&background=12154C00&vCenter=true&width=435&lines=Hi!+I'm+atocheniy)](https://git.io/typing-svg)
+
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![C](https://img.shields.io/badge/Code-C-A8B9CC?style=flat&logo=c)
@@ -10,8 +11,9 @@
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=flat&logo=windows11)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-⠀⠀[<img alt=small src="https://www.codewars.com/users/atocheniy/badges/small">](https://www.codewars.com/users/atocheniy)
-
+ <br>
+ 
+[![codewars](https://www.codewars.com/users/atocheniy/badges/large)](https://www.codewars.com/users/atocheniy)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -21,14 +23,19 @@
 
 <br>
 <br>
+
+![Preview](https://atocheniy.pythonanywhere.com?scan=true&theme=dark)   <img align="top" src="https://i.postimg.cc/ZKhkDSdv/lennart-butz-japan-12.gif" width="330" />
+
+
 <br>
+
+  
 
 ### GitHub Stats
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=atocheniy&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=atocheniy&show_icons=true&theme=gotham" alt="atocheniy" /> 
-  <img align="top" src="https://i.postimg.cc/ZKhkDSdv/lennart-butz-japan-12.gif" width="370" />
   <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atocheniy&theme=gotham" alt="Gift's LangStat" />
