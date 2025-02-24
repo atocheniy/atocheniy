@@ -21,6 +21,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+
 <br>
 <br>
 
@@ -35,12 +36,12 @@
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=atocheniy&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=atocheniy&show_icons=true&theme=gotham" alt="atocheniy" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=atocheniy&show_icons=true&theme=gotham" alt="atocheniy" /> <img align="top" src="https://readme-components.vercel.app/api?component=logo&fill=DarkBlue&logo=react&animation=spin&svgfill=15d8fe">  <img align="top" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Download&value=99.9" alt="atocheniy" />
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atocheniy&theme=gotham" alt="Gift's LangStat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atocheniy&theme=gotham" alt="Gift's LangStat" /> <img src="https://readme-components.vercel.app/api?component=experience&company=discord" alt="atocheniy"/> <img src="https://readme-components.vercel.app/api?component=experience&company=codewars&fill=ffc0cd" alt="atocheniy"/> <img src="https://readme-components.vercel.app/api?component=experience&company=github&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" alt="atocheniy"/> 
   
-</div>
+</div> 
 <br>
-
 
