@@ -36,7 +36,7 @@
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=atocheniy&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=atocheniy&show_icons=true&theme=gotham" alt="atocheniy" /> <img align="top" src="https://readme-components.vercel.app/api?component=logo&fill=DarkBlue&logo=react&animation=spin&svgfill=15d8fe">  <img align="top" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60"> <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Download&value=99.9" alt="atocheniy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atocheniy&show_icons=true&theme=gotham" alt="atocheniy" /> <img align="top" src="https://readme-components.vercel.app/api?component=logo&fill=DarkBlue&logo=react&animation=spin&svgfill=15d8fe">  <img align="top" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 
   <br>
   <br>
