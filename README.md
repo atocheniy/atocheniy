@@ -40,7 +40,7 @@
 
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atocheniy&theme=gotham" alt="Gift's LangStat" />⠀⠀⠀⠀⠀ <img src="https://readme-components.vercel.app/api?component=experience&company=codewars&fill=ffc0cd" alt="atocheniy"/> <img src="https://readme-components.vercel.app/api?component=experience&company=github&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" alt="atocheniy"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atocheniy&theme=gotham" alt="Gift's LangStat" />⠀⠀⠀ <img src="https://readme-components.vercel.app/api?component=experience&company=codewars&fill=ffc0cd" alt="atocheniy"/> <img src="https://readme-components.vercel.app/api?component=experience&company=github&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" alt="atocheniy"/> 
   
 </div> 
 <br>
