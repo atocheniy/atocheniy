@@ -12,10 +12,12 @@
 ![Windows 11](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=flat&logo=windows11)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=atocheniy.atocheniy)
- <br>
- 
-[![codewars](https://www.codewars.com/users/atocheniy/badges/large)](https://www.codewars.com/users/atocheniy)
+<p align="left">
+  <a href="https://www.codewars.com/users/atocheniy">
+    <img src="https://www.codewars.com/users/atocheniy/badges/large" alt="codewars badge"/>
+  </a>&nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=atocheniy.atocheniy" style="width: 130px" alt="visitors"/>
+</p>
 
 **Full-stack developer** specializing in C#, JavaScript, and Node.js, with a keen interest in modern frontend frameworks like React. <br>
 
