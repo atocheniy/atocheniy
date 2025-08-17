@@ -15,6 +15,13 @@
  
 [![codewars](https://www.codewars.com/users/atocheniy/badges/large)](https://www.codewars.com/users/atocheniy)
 
+**Full-stack developer** specializing in C#, JavaScript, and Node.js, with a keen interest in modern frontend frameworks like React. <br>
+
+### 🛠️ My Tech Stack
+*   **Front:** HTML, CSS, JavaScript|Typescript, React (MUI)
+*   **Back:** Node.js, ASP.NET
+*   **Databases:** MSSQL
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
