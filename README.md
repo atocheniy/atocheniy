@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&weight=700&size=30&pause=1000&color=F7F7F7&background=12154C00&vCenter=true&width=435&lines=Hi!+I'm+atocheniy)](https://git.io/typing-svg)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3776AB)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![C](https://img.shields.io/badge/Code-C-A8B9CC?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/Code-C++-00599C?style=flat&logo=c%2B%2B)
@@ -9,8 +10,7 @@
 ![CSS](https://img.shields.io/badge/Style-CSS-1572B6?style=flat&logo=css3)
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927?style=flat&logo=microsoftsqlserver)
 
-![Windows 11](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=flat&logo=windows11)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+### OS: ![Windows 11](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=flat&logo=windows11) ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 <p align="left">
   <a href="https://www.codewars.com/users/atocheniy">
