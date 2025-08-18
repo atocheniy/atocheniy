@@ -19,7 +19,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=atocheniy.atocheniy" style="width: 130px" alt="visitors"/>
 </p>
 
-**Full-stack developer** specializing in C#, JavaScript, and Node.js, with a keen interest in modern frontend frameworks like React. <br>
+**Full-stack developer** specializing in C#, JavaScript, and Node.js, with a keen interest in modern frontend frameworks like React and Angular <br>
 
 ### 🛠️ My Tech Stack
 ## Web:
