@@ -22,8 +22,13 @@
 **Full-stack developer** specializing in C#, JavaScript, and Node.js, with a keen interest in modern frontend frameworks like React. <br>
 
 ### 🛠️ My Tech Stack
+## Web:
 *   **Front:** HTML, CSS, JavaScript|Typescript, React (MUI)
 *   **Back:** Node.js, ASP.NET
+*   **Databases:** MSSQL, MySQL
+
+## Desktop:
+*   **Techs:** C#, C++, WPF, .NET
 *   **Databases:** MSSQL, MySQL
 
 <picture>
