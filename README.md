@@ -23,7 +23,7 @@
 
 ### 🛠️ My Tech Stack
 ## Web:
-*   **Front:** HTML, CSS, JavaScript|Typescript, React (MUI)
+*   **Front:** HTML, CSS, JavaScript|Typescript, React (MUI), Angular
 *   **Back:** Node.js, ASP.NET
 *   **Databases:** MSSQL, MySQL
 
