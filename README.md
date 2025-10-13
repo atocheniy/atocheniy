@@ -41,7 +41,7 @@
 <br>
 <br>
 
-![Preview](https://atocheniy.pythonanywhere.com?scan=true&theme=dark)   <img align="top" style="border-radius: 10px;" src="https://i.postimg.cc/ZKhkDSdv/lennart-butz-japan-12.gif" width="330" />
+   <img align="top" style="border-radius: 10px;" src="https://i.postimg.cc/ZKhkDSdv/lennart-butz-japan-12.gif" width="330" />
 
 
 <br>
