@@ -21,6 +21,8 @@
 
 **Full-stack developer** specializing in C#, JavaScript, and Node.js, with a keen interest in modern frontend frameworks like React and Angular <br>
 
+💬**Telegram channel**: [Click!](https://t.me/just_a_link_123)
+
 ### 🛠️ My Tech Stack
 ## Web:
 *   **Front:** HTML, CSS, JavaScript|Typescript, React (MUI), Angular
