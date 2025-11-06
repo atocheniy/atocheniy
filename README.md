@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&weight=700&size=30&pause=1000&color=F7F7F7&background=12154C00&vCenter=true&width=435&lines=Hi!+I'm+atocheniy)](https://git.io/typing-svg)
+# atocheniy
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3776AB)
@@ -43,23 +43,16 @@
 <br>
 <br>
 
-   <img align="top" style="border-radius: 10px;" src="https://i.postimg.cc/ZKhkDSdv/lennart-butz-japan-12.gif" width="330" />
-
-
-<br>
-
   
 
 ### GitHub Stats
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=atocheniy&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=atocheniy&show_icons=true&theme=gotham" alt="atocheniy" />⠀⠀⠀⠀⠀⠀⠀⠀ <img align="top" src="https://readme-components.vercel.app/api?component=logo&fill=DarkBlue&logo=react&animation=spin&svgfill=15d8fe">  <img align="top" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=atocheniy&show_icons=true&theme=gotham" alt="atocheniy" />⠀⠀⠀⠀⠀⠀⠀⠀ 
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atocheniy&theme=gotham" alt="Gift's LangStat" />⠀⠀⠀ <img src="https://readme-components.vercel.app/api?component=experience&company=codewars&fill=ffc0cd" alt="atocheniy"/> <img src="https://readme-components.vercel.app/api?component=experience&company=github&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" alt="atocheniy"/> 
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atocheniy&theme=gotham" alt="Gift's LangStat" />⠀⠀⠀ 
 </div> 
 <br>
 
