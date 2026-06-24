@@ -12,7 +12,7 @@
 
 ### OS: ![Windows 11](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=flat&logo=windows11) ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-💬[**Telegram channel**](https://t.me/just_a_link_123) <br>
+[**Telegram channel**](https://t.me/just_a_link_123) <br>
 **Fullstack application**: [Notes](https://my-react-1h4.pages.dev/)
 
 ### 🛠️ My Tech Stack
